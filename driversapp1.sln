@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "driversapp1", "driversapp1\driversapp1.csproj", "{C684F79E-13C4-4DF7-BD92-0D15D2FF4732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C684F79E-13C4-4DF7-BD92-0D15D2FF4732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C684F79E-13C4-4DF7-BD92-0D15D2FF4732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C684F79E-13C4-4DF7-BD92-0D15D2FF4732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C684F79E-13C4-4DF7-BD92-0D15D2FF4732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B45551DA-055B-4006-BCF1-F7EE73945443}
+	EndGlobalSection
+EndGlobal

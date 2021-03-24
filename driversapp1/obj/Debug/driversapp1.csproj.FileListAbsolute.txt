@@ -1,0 +1,16 @@
+C:\Users\79686\source\repos\driversapp1\driversapp1\bin\Debug\DriversDB.mdf
+C:\Users\79686\source\repos\driversapp1\driversapp1\bin\Debug\DriversDB_log.ldf
+C:\Users\79686\source\repos\driversapp1\driversapp1\bin\Debug\driversapp1.exe.config
+C:\Users\79686\source\repos\driversapp1\driversapp1\bin\Debug\driversapp1.exe
+C:\Users\79686\source\repos\driversapp1\driversapp1\bin\Debug\driversapp1.pdb
+C:\Users\79686\source\repos\driversapp1\driversapp1\obj\Debug\driversapp1.csprojAssemblyReference.cache
+C:\Users\79686\source\repos\driversapp1\driversapp1\obj\Debug\driversapp1.Drivers.resources
+C:\Users\79686\source\repos\driversapp1\driversapp1\obj\Debug\driversapp1.Properties.Resources.resources
+C:\Users\79686\source\repos\driversapp1\driversapp1\obj\Debug\driversapp1.csproj.GenerateResource.cache
+C:\Users\79686\source\repos\driversapp1\driversapp1\obj\Debug\driversapp1.csproj.CoreCompileInputs.cache
+C:\Users\79686\source\repos\driversapp1\driversapp1\obj\Debug\driversapp1.exe
+C:\Users\79686\source\repos\driversapp1\driversapp1\obj\Debug\driversapp1.pdb
+C:\Users\79686\source\repos\driversapp1\driversapp1\bin\Debug\Authorization.mdf
+C:\Users\79686\source\repos\driversapp1\driversapp1\bin\Debug\Authorization_log.ldf
+C:\Users\79686\source\repos\driversapp1\driversapp1\obj\Debug\driversapp1.Authorization.resources
+C:\Users\79686\source\repos\driversapp1\driversapp1\obj\Debug\driversapp1.Licenses.resources
